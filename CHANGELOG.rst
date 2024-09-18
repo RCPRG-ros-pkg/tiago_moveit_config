@@ -2,8 +2,8 @@
 Changelog for package tiago_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.1.0 (2024-09-18)
+------------------
 * remove ft-sensor in hw suffix and files
 * Contributors: David ter Kuile
 
